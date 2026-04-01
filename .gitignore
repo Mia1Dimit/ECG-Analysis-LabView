@@ -1,0 +1,26 @@
+# LabView build artifacts
+*.aliases
+*.lvlps
+*.lvproj.user
+*.vi.bak
+
+# Arduino / C++
+*.hex
+*.elf
+*.o
+
+# Data exports
+*.tdms
+*.csv
+
+# Logs and temp
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
